@@ -2,7 +2,7 @@
 
 # Maestría en Estadística Aplicada 2021- 2023
 
-# Computacion Estadistica
+# Computacion Estadística
 
 **Profesor: David Echeverría, Econ. Msc**
 
