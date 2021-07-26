@@ -10,7 +10,15 @@ Este curso presenta fundamentos de estadística computacional y simulación esta
 
 Como resultado, el estudiante estará capacitado en herramientas útiles para resolver problemas prácticos usando simulaciones asistidas por computador. Se fomenta el trabajo en equipo e interdisciplinario y se brindan oportunidades de mejorar las técnicas de comunicación y presentación.
 
-**Vínculos de descarga**
+**Video tutorial descarga de R y RStudio**
+
+https://cutt.ly/YQrDTVR
+
+**Video tutorial de descarga de Anaconda**
+
+https://cutt.ly/IQrDNB
+
+## Vínculos de descarga
 
 **R**
 
@@ -18,6 +26,12 @@ https://cran.r-project.org/bin/windows/base/
 
 **RStudio**
 https://www.rstudio.com/products/rstudio/download/#download
+
+
+**Rtools**
+
+https://cran.r-project.org/bin/windows/Rtools/
+
 
 **Anaconda**
 
